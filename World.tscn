@@ -3,3 +3,11 @@
 [ext_resource path="res://Scenes/World.tscn" type="PackedScene" id=1]
 
 [node name="World" instance=ExtResource( 1 )]
+
+[editable path="Area2D4"]
+[editable path="Area2D5"]
+[editable path="DoorAndButton"]
+[editable path="Area2D"]
+[editable path="Area2D2"]
+[editable path="Area2D3"]
+[editable path="Spinning Blade"]
