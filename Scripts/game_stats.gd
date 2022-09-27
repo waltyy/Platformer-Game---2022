@@ -14,6 +14,9 @@ func check_reset():
 	else:
 		return false
 		
+func set_time():
+	game_start_time = OS.get_ticks_msec()
+	
 func set_spawn(spawn):
 	current_spawn = spawn
 	
